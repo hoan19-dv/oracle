@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Tz9AyGA9mf3JfimHLF9aNPlrBK4zNBAE+16h1KH2Si8=",
+  "Source": "TestConnectDatabaseOracle",
+  "BasePath": "_content/TestConnectDatabaseOracle",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

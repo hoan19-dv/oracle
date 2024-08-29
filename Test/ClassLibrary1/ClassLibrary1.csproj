@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.1.35" />
+    <PackageReference Include="IKVM" Version="8.10.1" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="8.0.0" />
+    <PackageReference Include="MySql.Data" Version="9.0.0" />
+    <PackageReference Include="NLog.Web.AspNetCore" Version="5.3.12" />
+    <PackageReference Include="Oracle.ManagedDataAccess.Core" Version="23.5.1" />
+    <PackageReference Include="Z.Dapper.Plus" Version="7.5.2" />
+  </ItemGroup>
+
+</Project>

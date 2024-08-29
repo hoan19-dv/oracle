@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharp\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CSharp\\Test\\WebApplication2\\ConfigLog\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56306380-9E1B-4F06-B024-DFDDEFE23207}|ClassLibrary1\\CommonFunc.csproj|d:\\csharp\\webapplication1\\classlibrary1\\commonfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56306380-9E1B-4F06-B024-DFDDEFE23207}|ClassLibrary1\\CommonFunc.csproj|solutionrelative:classlibrary1\\commonfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10307EAE-54AF-40EC-AB17-D2897984CB2D}|TestConnectDatabaseOracle\\TestConnectDatabaseOracle.csproj|d:\\csharp\\webapplication1\\testconnectdatabaseoracle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10307EAE-54AF-40EC-AB17-D2897984CB2D}|TestConnectDatabaseOracle\\TestConnectDatabaseOracle.csproj|solutionrelative:testconnectdatabaseoracle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56306380-9E1B-4F06-B024-DFDDEFE23207}|ClassLibrary1\\CommonFunc.csproj|d:\\csharp\\webapplication1\\classlibrary1\\configinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56306380-9E1B-4F06-B024-DFDDEFE23207}|ClassLibrary1\\CommonFunc.csproj|solutionrelative:classlibrary1\\configinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "nlog.config",
+              "DocumentMoniker": "D:\\CSharp\\Test\\WebApplication2\\ConfigLog\\nlog.config",
+              "RelativeDocumentMoniker": "..\\Test\\WebApplication2\\ConfigLog\\nlog.config",
+              "ToolTip": "D:\\CSharp\\Test\\WebApplication2\\ConfigLog\\nlog.config",
+              "RelativeToolTip": "..\\Test\\WebApplication2\\ConfigLog\\nlog.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-29T06:11:35.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommonFunction.cs",
+              "DocumentMoniker": "D:\\CSharp\\WebApplication1\\ClassLibrary1\\CommonFunction.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\CommonFunction.cs",
+              "ToolTip": "D:\\CSharp\\WebApplication1\\ClassLibrary1\\CommonFunction.cs",
+              "RelativeToolTip": "ClassLibrary1\\CommonFunction.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwHsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T01:33:29.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharp\\WebApplication1\\TestConnectDatabaseOracle\\Program.cs",
+              "RelativeDocumentMoniker": "TestConnectDatabaseOracle\\Program.cs",
+              "ToolTip": "D:\\CSharp\\WebApplication1\\TestConnectDatabaseOracle\\Program.cs",
+              "RelativeToolTip": "TestConnectDatabaseOracle\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T08:44:15.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConfigInfo.cs",
+              "DocumentMoniker": "D:\\CSharp\\WebApplication1\\ClassLibrary1\\ConfigInfo.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\ConfigInfo.cs",
+              "ToolTip": "D:\\CSharp\\WebApplication1\\ClassLibrary1\\ConfigInfo.cs",
+              "RelativeToolTip": "ClassLibrary1\\ConfigInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T08:34:41.911Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
